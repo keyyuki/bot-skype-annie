@@ -5,7 +5,5 @@ services:
       context: ./
       args:
         NODE_ENV: development
-    volumes:
-      - .:/usr/src/app/
     ports:
       - 3978:3978
