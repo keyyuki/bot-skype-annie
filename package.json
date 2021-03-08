@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "botbuilder": "~4.6.0",
-        "botframework-connector": "^4.9.2",
+        "botframework-connector": "^4.9.4",
         "dotenv": "^8.2.0",
         "node-html-parser": "^1.2.19",
         "replace": "~1.1.1",
